@@ -2,6 +2,9 @@
 
 export const EntryPass = () => {
   return (
-    <div>EntryPass</div>
+    <section id="entry-pass">
+      <h2>Pases de Entrada</h2>
+      <p>Esta invitación es válida para 2 personas.</p>
+    </section>
   )
 }

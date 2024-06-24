@@ -2,6 +2,9 @@
 
 export const Dresscode = () => {
   return (
-    <div>Dresscode</div>
+    <section id="dresscode">
+      <h2>Dresscode</h2>
+      <p>Por favor, vestir de gala.</p>
+    </section>
   )
 }

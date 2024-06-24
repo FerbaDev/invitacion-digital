@@ -1,0 +1,15 @@
+:root {
+  --bg-color-primary: #f8f9fa;
+  --bg-color-secondary: #343a40;
+  --font-title: 'Georgia, serif';
+  --font-text: monospace;
+  --font-size-title: 2rem;
+  --font-size-subtitle: 1.5rem;
+  --font-size-text: 1rem;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--font-text);
+}
